@@ -1,6 +1,6 @@
 # psgmini_cmm2
  SN76489 / NES 2A03 Simulator and VGM Player for Colour Maximite 2
- (USE LAST BETA FIRMWARE FOR CMM2 TO USE THIS)
+ (USE LAST BETA FIRMWARE FOR THE CMM2 TO USE THIS)
  
 This is not an emulator and is far from perfect. It´s only a little include file for MMBasic and Colour Maximite 2 that play VGM files for SN76489 chips and with some limitations, for the NES 2A03.
  
